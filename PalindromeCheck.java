@@ -1,4 +1,4 @@
-package beginnersbook.com;
+
 import java.util.Scanner;
 
 class PalindromeCheck
